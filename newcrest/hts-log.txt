@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Nov 2020 07:43:36 at https://newcrestmining.ltd +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://newcrestmining.ltd -O1 "C:\My Web Sites\newcrest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:51:39	Warning: 	File not parsed, looks like binary: https://newcrestmining.ltd/fonts/glyphicons-halflings-regular.html
+07:51:39	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/newcrest/newcrestmining.ltd/fonts/glyphicons-halflings-regular.html
+07:53:14	Warning: 	File not parsed, looks like binary: https://newcrestmining.ltd/fonts/fontawesome-webfont3e6e3e6e.html
+07:53:14	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/newcrest/newcrestmining.ltd/fonts/fontawesome-webfont3e6e3e6e.html
+07:55:29	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=http://www.w3.org/2000/svg (from https://newcrestmining.ltd/fonts/glyphicons-halflings-regular.svg)
+07:55:30	Error: 	"Forbidden" (403) at link https://newcrestmining.ltd/external.html?link=http://www.w3.org/1999/xhtml (from https://newcrestmining.ltd/css/owl.video.play.html)
+07:56:00	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/error_page.html (from https://newcrestmining.ltd/css/owl.video.play.html)
+07:56:33	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot (from https://newcrestmining.ltd/fonts/Linearicons-Free-v1.0.0/icon-font.min.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/themify.eot?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Forbidden" (403) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/themify.eot? (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/themify.woff?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/themify.ttf?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/themify.svg?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/css/admin/assets/fonts/themify.eot?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Forbidden" (403) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/css/admin/assets/fonts/themify.eot? (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/css/admin/assets/fonts/themify.woff?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/css/admin/assets/fonts/themify.ttf?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/css/admin/assets/fonts/themify.svg?-fvbane (from https://newcrestmining.ltd/assets/css/lib/themify-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/weathericons-regular-webfont.eot (from https://newcrestmining.ltd/assets/css/lib/weather-icons.css)
+07:58:24	Error: 	"Forbidden" (403) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/weathericons-regular-webfont.eot? (from https://newcrestmining.ltd/assets/css/lib/weather-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/weathericons-regular-webfont.woff2 (from https://newcrestmining.ltd/assets/css/lib/weather-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/weathericons-regular-webfont.woff (from https://newcrestmining.ltd/assets/css/lib/weather-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/weathericons-regular-webfont.ttf (from https://newcrestmining.ltd/assets/css/lib/weather-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/weathericons-regular-webfont.svg (from https://newcrestmining.ltd/assets/css/lib/weather-icons.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/css/fonts/glyphicons-halflings-regular.eot (from https://newcrestmining.ltd/assets/css/lib/bootstrap.min.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700 (from https://newcrestmining.ltd/assets/css/style.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,500,600,700,800 (from https://newcrestmining.ltd/assets/css/style.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/MontserratLight.eot (from https://newcrestmining.ltd/assets/css/style.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/glyphicons-halflings-regular.eot (from https://newcrestmining.ltd/assets/css/style.css)
+07:58:24	Error: 	"Forbidden" (403) at link https://newcrestmining.ltd/external.html?link=https://investmentthrive.com/user/assets/fonts/glyphicons-halflings-regular.eot? (from https://newcrestmining.ltd/assets/css/style.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/michaeltruong.ca/images/logo1.png (from https://newcrestmining.ltd/assets/css/style.css)
+07:58:24	Error: 	"Not Found" (404) at link https://newcrestmining.ltd/michaeltruong.ca/images/client.jpg (from https://newcrestmining.ltd/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 48 seconds : 201 links scanned, 171 files written (29012024 bytes overall), 22 files updated [1007997 bytes received at 1135 bytes/sec], 1000812 bytes transferred using HTTP compression in 21 files, ratio 23%
+(28 errors, 4 warnings, 0 messages)

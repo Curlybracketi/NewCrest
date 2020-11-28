@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+newcrestmining.ltd	TRUE	/	FALSE	1999999999	PHPSESSID	h6nk1p77om3sjl6gbvsni5it23
+newcrestmining.ltd	TRUE	/	FALSE	1999999999	CameFrom	deleted
+newcrestmining.ltd	TRUE	/	FALSE	1999999999	password	deleted
+newcrestmining.ltd	TRUE	/	FALSE	1999999999	password2	deleted
+
